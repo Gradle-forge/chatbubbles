@@ -1,6 +1,5 @@
 # ChatBubbles
 
-![preview](http://archive.4craft.us/more_chat.gif)
 
 Chat bubbles for Minecraft Bukkit/Spigot servers. 
 
