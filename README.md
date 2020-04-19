@@ -1,5 +1,6 @@
 # ChatBubbles
 
+![](example/chat-bubbles-mod-for-minecraft-03.jpg)
 
 Chat bubbles for Minecraft Bukkit/Spigot servers. 
 
